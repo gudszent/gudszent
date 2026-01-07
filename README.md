@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Otto Gudszent
+Azure Cloud solution architect
+🔭 I'm currently working on Working on cloud migration projects, improving cloud adoption with a strong focus on networking and IT security. Deploying Azure Virtual Desktop (AVD) environments across Europe.
 
-<!--
-**gudszent/gudszent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning Currently learning anything that catches my attention lifelong learning mindset. Focus on scripting, IaC, AI, and vibecoding.
 
-Here are some ideas to get you started:
+💬 Ask me about Ask me about Azure, IT security, Terraform, infrastructure as code, networking, and AI infrastructure in Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me gudszent@gmail.com
+
+⚡ Fun fact I enjoy 3D printing, smart home tinkering, homelabs, and building automations that don’t overcomplicate things.
+
+📝 I regularly write articles on https://gudszent.hu
+
+Connect with me:
+gudszent gudszent-otto
+
+Languages and Tools:
+android arduino azure bash docker git grafana java jekyll kibana kubernetes linux mssql nginx ollama opencv tensorflow
